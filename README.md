@@ -118,4 +118,4 @@ The following terms were submitted for review and were approved for continued us
 |white label|No change recommended|The guiding principle on black and white terms does not apply (see entry for "blacklist").|
 |white paper|No change recommended|This term is out of the scope of the review board because it is not an IT term. It is used by governments and other industries. Furthermore, the guiding principle on black and white terms does not apply (see entry for "blacklist").|
 |white space|No change recommended|This term is not based on a good/bad binary and so does not fall under our guiding principle for black and white terms (see "blacklist").|
-|blue team|No change recommended.|This use of "red" does not refer to Indigenous people and does not reinforce a negative stereotype.|
+|blue team|No change recommended.|This use of "blue" does not refer to Indigenous people and does not reinforce a negative stereotype.|
