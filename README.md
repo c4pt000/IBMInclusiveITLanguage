@@ -103,7 +103,7 @@ The following terms were submitted for review and were approved for continued us
 |dark mode/light mode|No change recommended|This term is not based on a good/bad binary and so does not fall under our guiding principle for black and white terms (see "blacklist").|
 |fair hiring practice|No change recommended|This term is not biased because it's easy to distinguish "fair" in the sense of unbiased from "fair" in the sense of a light-skinned person in context.|
 |Fellow|No change recommended|Fellow refers to the most senior rank or title one can achieve on a technical career in certain companies or a member of a learned or professional society, or a person who has been awarded a grant for studies, typically in the field of scientific research, or a person who has earned a fellowship. A Fellow can be male or female. This term does not promote gender bias.|
-|gold master/golden master|No change recommended|There is no dominant/subordinate relationship implied. There is no issue or problem with using the term.|
+|gold master/golden master|use "RTM" (release to manufacturer |There is no dominant/subordinate relationship implied. There is no issue or problem with using the term.|
 |grandfather|No change recommended|The history of this term is obscure and as such doesn't make this an offensive term.|
 |mastermind|No change recommended|This term does not fall under the criteria for replacing the term "master". It refers to a level of skill rather than a dominate/subordinate relationship.|
 |master inventor|No change recommended|This term does not fall under the criteria for replacing the term "master". It refers to a level of skill rather than a dominate/subordinate relationship.|
