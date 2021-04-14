@@ -30,6 +30,8 @@ This table contains the first set of terms that we’ve made a decision on. As m
 
 # MOST important terminology to change drop
 
+|Term|Replacement term (interchangeable terms)|Definition|Rationale|
+| --- | --- | ----- | ----- |
 |gold master/golden master|use "RTM" (release to manufacturer) |
 |segregation|Use "separation" or "segmentation"||This term refers to a process that violates human rights by limiting access to privileges and rights such as education and voting.|
 slave|Use the appropriate replacement for your domain, such as such as "worker", "child", "helper", "replica", "follower", or "secondary [server, node, process, or other noun]"|An entity, such as a device or process, that is dependent on or controlled by another entity.|The use of the term "slave" in an IT context diminishes the horror of the dehumanizing practice of slavery.
