@@ -28,7 +28,7 @@ The initial scope of this initiative is IT terminology that promotes racial and 
 
 This table contains the first set of terms that we’ve made a decision on. As more terms are added, the table will be updated.
 
-# MOST important terminology to change drop
+# MOST important terminology to change drop (in bizaree mental severity)
 
 |Term|Replacement term (interchangeable terms)|Definition|Rationale|
 | --- | --- | ----- | ----- |
@@ -37,7 +37,7 @@ This table contains the first set of terms that we’ve made a decision on. As m
 slave|Use the appropriate replacement for your domain, such as such as "worker", "child", "helper", "replica", "follower", or "secondary [server, node, process, or other noun]"|An entity, such as a device or process, that is dependent on or controlled by another entity.|The use of the term "slave" in an IT context diminishes the horror of the dehumanizing practice of slavery.
 |master (when paiwith slave)|Use the appropriate replacement for your domain, such as "controller", "leader", "manager", "main", "coordinator", "parent", or "primary [server, node, process, or other noun]"|An entity, such as a device or process that controls another or is an authoritative source|The use of "master" with the term "slave" in an IT context diminishes the dehumanizing practice of slavery. Do not use "master" when a pairing with "slave" is either explicit or implied. Use of the term "master" is acceptable if it is not paired with "slave" and when it is not used to convey power or control over another entity. Context is key. Examples of acceptable uses of "master" include: master data management, master inventor, master’s degree|
 
-# mostly leave these terms as inter-changeable
+# mostly leave these terms as inter-changeable (secondary in terms of bizaree mental severity)
 
 ## **What terms is IBM replacing?** (they're not its impossible to forget history and the formulation of english from computers its a just reminder to be polite)
 |Term|Replacement term (interchangeable terms)|Definition|Rationale|
