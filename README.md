@@ -29,7 +29,7 @@ The initial scope of this initiative is IT terminology that promotes racial and 
 This table contains the first set of terms that we’ve made a decision on. As more terms are added, the table will be updated.
 
 ## **What terms is IBM replacing?**
-|Term|Replacement term|Definition|Rationale|
+|Term|Replacement term (interchangeable terms)|Definition|Rationale|
 | --- | --- | ----- | ----- |
 |blacklist|blocklist|A list of items, such as usernames, email addresses, or IP addresses, that are denied access to a certain system or function. When a blocklist is used for access control, all entities are allowed access, except for those that are included in the blocklist.|As a pair, "blacklist" and "whitelist" promote racial bias by implying that black is bad and white is good. When the terms 'white' or 'black' are used in a context where white is represented as good or black is represented as bad, this usage reinforces a model that promotes racial bias.|
 |whitelist|allowlist|A list of items, such as usernames, email addresses, or IP addresses, that are granted access to a certain system or function. When an allowlist is used for access control, all entities are denied access, except for those that are included in the allowlist.|As a pair, "blacklist" and "whitelist" promote racial bias by implying that black is bad and white is good. When the terms 'white' or 'black' are used in a context where white is represented as good or black is represented as bad, this usage reinforces a model that promotes racial bias.|
