@@ -54,6 +54,14 @@ slave|Use the appropriate replacement for your domain, such as such as "worker",
 
 
 
+
+(Chinese wall	Use "country based firewall"	An information barrier that prevents exchanges or communication that could lead to conflicts of interest.	This term, when used to describe an information barrier between parties, is outdated and might be perceived as culturally insensitive or offensive because it inappropriately refers to ethnicity. )
+
+^^ not really in a weird way China is proud of their digital country based firewall and they almost refer to it similarly to their physical "great wall of china" that kept invaders out 1000s of years ago
+
+
+but other countries that have empowered firewalls would feel weird having their country based firewall refered to as the Chinese wall or Chinese walled garden)
+
 ## **Terminology matters: some Qs and As**
 
 _Language is very powerful. Language does not describe reality. Language creates the reality that it describes._ - Desmond Tutu
