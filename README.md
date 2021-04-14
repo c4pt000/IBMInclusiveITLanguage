@@ -110,7 +110,7 @@ The following terms were submitted for review and were approved for continued us
 |master inventor|No change recommended|This term does not fall under the criteria for replacing the term "master". It refers to a level of skill rather than a dominate/subordinate relationship.|
 |parent/child|No change recommended|Although the relationship of parent and child is one of dependency, it is appropriate. Parents do have legal rights over children until a certain age, so it is a natural dependency relationship. Children falling victim to adult power is not the main result of this relationship, so this term does not represent an abuse of power typically.|
 |POC (proof of concept)|No change recommended|This is a general business term that originates outside of IT. The context is widely known and is key here. This is not likely to be confused with "person of color". It's common and acceptable for acronyms and abbreviations to have multiple full forms.|
-|red team|No change recommended.|This use of "red" does not refer to Indigenous people and does not reinforce a negative stereotype.|
+|red team| team of offensive security researchers.|This use of "red" does not refer to Indigenous people and does not reinforce a negative stereotype.|
 |religiously (meaning with discipline but also potentially offending to atheists)|No change recommended|This term is not considered offensive.|
 |white box|No change recommended|There is no need to change white box because black box refers to opacity, such as details that aren't visible or are not the focus. It is not based on a good/bad binary and so does not fall under our guiding principle for black and white terms.|
 |white card|No change recommended|This term is not based on a good/bad binary and so does not fall under our guiding principle for black and white terms (see "blacklist").|
@@ -118,4 +118,4 @@ The following terms were submitted for review and were approved for continued us
 |white label|No change recommended|The guiding principle on black and white terms does not apply (see entry for "blacklist").|
 |white paper|No change recommended|This term is out of the scope of the review board because it is not an IT term. It is used by governments and other industries. Furthermore, the guiding principle on black and white terms does not apply (see entry for "blacklist").|
 |white space|No change recommended|This term is not based on a good/bad binary and so does not fall under our guiding principle for black and white terms (see "blacklist").|
-|blue team|No change recommended.|This use of "blue" does not refer to Indigenous people and does not reinforce a negative stereotype.|
+|blue team|a team of defensive security researchers.|This use of "blue" does not refer to Indigenous people and does not reinforce a negative stereotype.|
