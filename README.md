@@ -48,7 +48,6 @@ slave|Use the appropriate replacement for your domain, such as such as "worker",
 |white hat hacker|defensive security researcher|A hacker who breaks into organizations or targets with the goal of uncovering risky vulnerabilities that criminal attackers might exploit for personal gain. to help defend that target|
 |Chinese wall|Use "country based firewall" |An information barrier that prevents exchanges or communication that could lead to conflicts of interest.|This term, when used to describe an information barrier between parties, is outdated and might be perceived as culturally insensitive or offensive because it inappropriately refers to ethnicity.|
 |man hour, man day|Use "work hour(s)",  “full-time equivalent (FTE) day”, or “full-time equivalent (FTE) hour|A unit of work that can be completed by an average worker in the specified time period.|These terms use "man" to represent all workers, which is biased and exclusionary.|
-
 |red team| team of offensive security researchers.|This use of "red" does not refer to Indigenous people and does not reinforce a negative stereotype.|
 |blue team|a team of defensive security researchers.|This use of "blue" does not refer to Indigenous people and does not reinforce a negative stereotype.|
 
